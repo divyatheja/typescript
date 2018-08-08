@@ -6,6 +6,7 @@ let productDescription:string="16GB, Gold"; //Declaring a string variable
 
 let productName:string="Samsung Galaxy J7"; 
 
+
 let productAvailable: boolean = true;   //Declaring a boolean variable
 
 console.log("The type of productId is " + typeof productId);
